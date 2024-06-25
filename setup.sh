@@ -1,0 +1,2 @@
+# setup.sh
+npm install
