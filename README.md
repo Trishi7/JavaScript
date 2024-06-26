@@ -31,16 +31,6 @@ Implement basic JavaScript concepts including variables, data types, conditional
 - Age: 5
 - Is Student: true
 
-**Set 2:**
-- Name: "Bob"
-- Age: 15
-- Is Student: false
-
-**Set 3:**
-- Name: "Charlie"
-- Age: 8
-- Is Student: true
-
 ### Expected Output:
 **Set 1:**
 ```javascript
@@ -50,19 +40,4 @@ Implement basic JavaScript concepts including variables, data types, conditional
 "Hello, my name is Alice and I am a student."
 "Hello, my name is Alice and I am a student."
 
-### Expected Output:
-**Set 2:**
-```javascript
-"Hello, my name is Bob."
 
-### Expected Output:
-**Set 3:**
-```javascript
-"Hello, my name is Charlie and I am a student."
-"Hello, my name is Charlie and I am a student."
-"Hello, my name is Charlie and I am a student."
-"Hello, my name is Charlie and I am a student."
-"Hello, my name is Charlie and I am a student."
-"Hello, my name is Charlie and I am a student."
-"Hello, my name is Charlie and I am a student."
-"Hello, my name is Charlie and I am a student."
