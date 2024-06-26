@@ -49,3 +49,20 @@ Implement basic JavaScript concepts including variables, data types, conditional
 "Hello, my name is Alice and I am a student."
 "Hello, my name is Alice and I am a student."
 "Hello, my name is Alice and I am a student."
+
+### Expected Output:
+**Set 2:**
+```javascript
+"Hello, my name is Bob."
+
+### Expected Output:
+**Set 3:**
+```javascript
+"Hello, my name is Charlie and I am a student."
+"Hello, my name is Charlie and I am a student."
+"Hello, my name is Charlie and I am a student."
+"Hello, my name is Charlie and I am a student."
+"Hello, my name is Charlie and I am a student."
+"Hello, my name is Charlie and I am a student."
+"Hello, my name is Charlie and I am a student."
+"Hello, my name is Charlie and I am a student."
